@@ -1,0 +1,3 @@
+Adafruit CircuitPython 9.1.0 on 2024-07-10; ProS3 with ESP32S3
+Board ID:unexpectedmaker_pros3
+UID:CEADB3141A08
